@@ -10,8 +10,22 @@ biologist might ask, and you learn the R tools needed to answer it — step by s
 > - Run the code cells (click them and press Ctrl+Enter or Click Run)
 > - When you see **▶ Your Turn**, write your own code in the cell below
 
+---
+## 1. Variables — Your Lab Notebook in Code
 
+**The problem:** You're growing *E. coli* and measuring optical density (OD₆₀₀) every 30 minutes.
+You get the values: 0.05, 0.12, 0.31, 0.78. How do you store them so you can work with them later?
 
+**The solution:** Variables. Think of a variable as a labelled box on your bench — you put data inside, write a name on the box, and grab it whenever you need it.
+In R, we use `<-` (like an arrow) to put data into a variable:
+# Store the OD at time 0
+od_0 <- 0.05
+od_30 <- 0.12
+od_60 <- 0.31
+od_90 <- 0.78
+
+# Display a variable — just type its name
+od_60
 
 
 # Xeus-Lite demo
