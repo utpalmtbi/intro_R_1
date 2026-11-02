@@ -12,17 +12,17 @@ Learn R by solving real biological problems—from optical density measurements 
 The educational materials in this repository are adapted and reorganised from my original content, previously published on [the Bakshi Lab website](https://www.bakshilab.org/blog/basic_r_1). This repository provides an accompanying computational and practical resource for the original educational material.
 
 ---
-## 🚀 Run Instantly in Your Browser
+## Run Instantly in Your Browser
 
 You do not need to install anything on your computer! Click the badge below to open the notebook directly in **Google Colab** (with an R kernel):
 
-👉 **[Open The_First_Course_on_R.ipynb in Google Colab](https://colab.research.google.com/github/utpalmtbi/intro_R_1/blob/main/The_First_Course_on_R.ipynb)**
+ **[Open The_First_Course_on_R.ipynb in Google Colab](https://colab.research.google.com/github/utpalmtbi/intro_R_1/blob/main/The_First_Course_on_R.ipynb)**
 
 > **Tip:** When opening in Google Colab, the notebook automatically connects to an R runtime. Run code cells sequentially with `Shift + Enter` or by clicking the **Play** button next to each cell.
 
 ---
 
-## 📚 Course Curriculum
+## Course Curriculum
 
 1. **Variables — Your Lab Notebook in Code**
    - Storing measurements (OD₆₀₀, spleen weights)
@@ -52,7 +52,7 @@ You do not need to install anything on your computer! Click the badge below to o
 
 ---
 
-## 💻 Running Locally
+## Running Locally
 
 If you prefer to run the notebook on your local computer:
 
