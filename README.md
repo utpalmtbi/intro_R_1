@@ -1,3 +1,19 @@
+# R for Biologists: From Zero to Data Analysis
+
+**Welcome!** This course is designed for **biologists with no programming experience**.
+
+We learn R by solving real biological problems. Each section starts with a question a
+biologist might ask, and you learn the R tools needed to answer it — step by step.
+
+> **How to use this notebook**
+> - Read the explanation in each cell
+> - Run the code cells (click them and press Ctrl+Enter or Click Run)
+> - When you see **▶ Your Turn**, write your own code in the cell below
+
+
+
+
+
 # Xeus-Lite demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/xeus-lite-demo/notebooks/?path=demo.ipynb)
