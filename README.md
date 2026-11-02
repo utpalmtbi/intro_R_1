@@ -8,7 +8,7 @@ A comprehensive, hands-on introductory course designed specifically for **biolog
 Learn R by solving real biological problems—from optical density measurements and qPCR Ct values to differential gene expression analysis.
 
 ---
-# Content Origin
+## Content Origin
 The educational materials in this repository are adapted and reorganised from my original content, previously published on [the Bakshi Lab website](https://www.bakshilab.org/blog/basic_r_1). This repository provides an accompanying computational and practical resource for the original educational material.
 
 ---
