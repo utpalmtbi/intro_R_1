@@ -5,3 +5,5 @@
 *.txt
 Lab_Notebook_Guide.md
 R_for_Biologists.ipynb
+
+build_expanded_notebook.py
